@@ -1,8 +1,1 @@
-<pre>{
-  &quot;dependencies&quot;: {
-    &quot;body-parser&quot;: &quot;^2.2.0&quot;,
-    &quot;cors&quot;: &quot;^2.8.5&quot;,
-    &quot;express&quot;: &quot;^5.1.0&quot;
-  }
-}
-</pre>
+
